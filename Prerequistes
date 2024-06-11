@@ -1,0 +1,17 @@
+Download the following:
+- Python (https://www.python.org/downloads/)
+- VS code (https://code.visualstudio.com/)
+- Pip (https://youtu.be/fJKdIf11GcI?si=RVnUvrASdDZB7NoD)
+- Tensorflow and Keras (https://youtu.be/1y8RM4pzM0s?si=H5cn5d7-qbOOYRV1)
+- Cv2 (https://youtu.be/bxH14cLMT40?si=jMLekWqZd4Nv0QYQ)
+
+Dataset from Kaggle
+https://www.kaggle.com/datasets/arjuntejaswi/plant-village
+(make sure to delete unwanted plant disease folders)
+
+Create
+- folder where default dataset is kept
+- desktop folder where model is stored
+
+Reference
+https://youtube.com/playlist?list=PLeo1K3hjS3ut49PskOfLnE6WUoOp_2lsD&si=Ul-8TVGb2a8N9FzC
